@@ -13,7 +13,7 @@
 
 # Alguns comentários e observações:
 
-- O banco de dados foi feito no MySQL, na pasta "1 - Modelagem do banco de dado" terá o arquivo .sql para criação do banco de dados, e caso surgir a curiosidade, uma imagem do MER utilizado pra fazer o banco (foi feito o MER, e utilizado a opção "Forward Engineer" do MySQL, e alterado algumas informações do script manualmente).
+- O banco de dados foi feito no MySQL, na pasta "1 - Modelagem do banco de dado" terá o arquivo .sql para criação do banco de dados, e caso surgir a curiosidade, uma imagem do MER utilizado pra fazer o banco (foi feito o MER, utilizado a opção "Forward Engineer" do MySQL e alterado algumas informações do script manualmente para criação de índices e ajuste de alguns relacionamentos).
 - Para criação do CSV de testes, foi utilizado o site https://extendsclass.com/csv-generator.html. Tentei usar o Mockaroo, mas há um limite de 1000 linhas. 
 - O código do importador não é original, foi pego um molde pronto e alterado conforme as necessidades do desafio. (Neste caso considero que esse tópico do desafio não foi atingido)
 - Realizei algumas adaptações nas tabelas sugeridas no desafio. Na pasta do desafio dos índices esclareço um pouco mais sobre isso.
